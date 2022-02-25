@@ -8,5 +8,3 @@ Ejemplo de uso
   const {data: null, loading: true, error: null } = useFectch (url)
 
 `````
-
-useCounter () // recibe un valor por defecto
